@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.scripts]
-ca_init = "Biopython_learning.main:main"
+hello_script = "Biopython_learning.main:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
